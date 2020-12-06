@@ -1,0 +1,16 @@
+.ipynb_checkpoints*
+Forward pass dimensions.ods
+Graphic forward pass*
+MAL-TV_scripts_with_negative_sampling_loss.py
+M_de_M*
+Question to reviewer.odt
+TV_scripts.py
+__pycache__*
+data*
+dlnd_tv_script_generation_comparativa.py
+dlnd_tv_script_generation_with_neg_sampling.ipynb
+generated_script_*
+preprocess.p
+trained_rnn.pt
+trained_rnn_B.pt
+LÉEME.txt
